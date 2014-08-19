@@ -47,9 +47,9 @@ General notes and suggestions for customizing **HPSTR**.
 3. Set the following variables in your `config.yml` file:
 
 ``` yaml
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: shortname
+title:            dtrapezoid
+description:      Hi! I'm Dani Traphagen, or dtrap if you rather.
+disqus_shortname: dtrap
 # Your site's domain goes here. When working locally use localhost server leave blank
 # PS. If you set this wrong stylesheets and scripts won't load and most links will break.
 # PPS. If you leave it blank for local testing home links won't work, they'll be fine for live domains though.
@@ -57,28 +57,28 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Dani Traphagen
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Just some internet bread crumbs providing the tall tales, work, and trails of Dani Traphagen."
+  email:          dtrapezoid@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        dtrapezoid
+  facebook:       www.facebook.com/danielle.traphagen
+  github:         dtrap
   stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  linkedin:       www.linkedin.com/pub/dani-traphagen/31/93b/b85/
+  instagram:
+  flickr:         https://www.flickr.com/photos/dtrappp/
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  #google_plus:    +yourid
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
@@ -115,4 +115,4 @@ Having a problem getting something to work or want to know why I setup something
 
 ## License
 
-This theme is free and open source software, distributed under the [The MIT License](https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE). So feel free to to modify this theme to suit your needs. 
+This theme is free and open source software, distributed under the [The MIT License](https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE). So feel free to to modify this theme to suit your needs.
