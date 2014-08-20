@@ -2,7 +2,7 @@ title:            dtrapezoid
 description:      Hi! I'm Dani Traphagen, or dtrap if you rather.
 disqus_shortname: dtrap.disqus.com
 reading_time:     true
-words_per_minute: 200.
+words_per_minute: 200.0
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://www.dtrapezoid.com
 
