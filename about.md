@@ -5,6 +5,7 @@ title: About me
 tags: [about]
 image:
   feature: abstract-6.jpg
+  credit: Carlos Caceres
 share: true
 ---
 

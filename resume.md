@@ -6,6 +6,8 @@ description: "Here's where you'll find the 411 on me."
 tags: [Jekyll, theme, install, setup]
 image:
   feature: abstract-3.jpg
+  credit: dtrap
+  creditlink: https://www.flickr.com/photos/dtrappp/3399314545/
 share: true
 ---
 
