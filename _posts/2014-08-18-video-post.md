@@ -3,7 +3,6 @@ layout: post
 title: "A Year in the Life of an Open Scientist"
 description: "I write about this past year in the intersecting worlds of science, pedagogy, data science, and technology."
 tags: [open science, year review, summary, thanks, video]
-comments: true
 share: true
 ---
 
