@@ -11,7 +11,7 @@ comments: true
 share: true
 ---
 
-**I am so excited to announce that I accepted an offer from** [DataStax](http://datastax.com) **to join as a Curriculum Developer.**
+**I am so excited to announce that I accepted an offer from** [DataStax](http://datastax.com) **to join the team as a Curriculum Developer!**
 
 This marks a new era for me, as my previous working experience has come mostly from academia.
 I have been nothing short of impressed with DataStax thus far, and it's only just beginning!
