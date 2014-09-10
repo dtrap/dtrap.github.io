@@ -10,7 +10,7 @@ share: true
 ---
 
 
-## Open Scientist, Technology Instructor, Filmmaker
+## Curriculum Developer, Technology Instructor, Filmmaker
 
 Oh hai! I didn't see you there. Welcome to my world wide webs internet site! Would you like a sandwich? Perhaps, a cup of tea?
 
@@ -27,7 +27,11 @@ Oh hai! I didn't see you there. Welcome to my world wide webs internet site! Wou
 <img src="/images/nutshell.jpg" alt="">
 </figure>
 
-Aside from being great at taking things literally, I am **clearly** a *"master"* of photoshop. I also make videos, webinars and tutorials!
+Aside from being great at taking things literally, I am **clearly** a *"master"* of photoshop. *wink wink*
+
+I'm currently a Curriculum Developer [@DataStax](http://datastax.com)!
+
+I also make videos, webinars and tutorials!
 
 I like to make things in the *real* world too! I've never met a power tool I don't like, except for nail guns...we've had some problems.
 
