@@ -11,7 +11,7 @@ comments: true
 share: true
 ---
 
-**I am so excited to announce that I accepted an offer from** [DataStax](http://datastax.com) **to join the team as a Curriculum Developer!**
+**I am so excited to announce that I accepted an offer from** [DataStax](http://datastax.com) **to join the team as a Technical Enablement Developer!**
 
 This marks a new era for me, as my previous working experience has come mostly from academia.
 I have been nothing short of impressed with DataStax thus far, and it's only just beginning!
@@ -23,7 +23,7 @@ Netflix provides one, often-cited, example of Apache Cassandra's far-reaching ut
 Serving media and in so doing, compiling the collected meta-data for future Netflix-original production is smart, but it's also revolutionary.
 It's artful in a way that balances the technical with the creative, and that's just one success story!
 
-I am specifically excited about this work because I love writing readable material that reduces barrier to entry.
+I am specifically excited about this work because I love making projects, hacking on things and generating material that reduces barrier to entry.
 This is often an issue in highly technical architectures, and I hope to make the start-up process more accessible.
 I am both humbled and elated to be joining this wonderful team!
 
