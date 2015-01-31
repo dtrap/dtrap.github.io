@@ -10,7 +10,7 @@ share: true
 ---
 
 
-## Curriculum Developer, Technology Instructor, Filmmaker
+## Technical Enablement Developer
 
 Oh hai! I didn't see you there. Welcome to my world wide webs internet site! Would you like a sandwich? Perhaps, a cup of tea?
 
@@ -27,9 +27,9 @@ Oh hai! I didn't see you there. Welcome to my world wide webs internet site! Wou
 <img src="/images/nutshell.jpg" alt="">
 </figure>
 
-Aside from being great at taking things literally, I am **clearly** a *"master"* of photoshop. *wink wink*
+Aside from being great at taking things literally, I am **clearly** a *"master"* of photoshop. 
 
-I'm currently a Curriculum Developer [@DataStax](http://datastax.com)!
+I'm currently a Technical Enablement Devleoper [@DataStax](http://datastax.com)!
 
 I also make videos, webinars and tutorials!
 
