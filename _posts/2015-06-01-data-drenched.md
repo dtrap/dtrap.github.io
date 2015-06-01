@@ -77,7 +77,7 @@ words, pictures, videos, into the ether, I draw myself on the cave wall of the a
 Not picking up what I'm putting down? Fair 'nuff but let's take, for instance,
 my trip to the Lourve. Let's just talk about this precious moment:
 
-![Figure 2: Still ain't lying]({{ www.dtrapezoid.com }}/images/our-smartphone.jpg)
+![Figure 2: Still ain't lying]({{ www.dtrapezoid.com }}/images/Our-smartphone.jpg)
 
 Tell me this doesn't look like worship? An iconic image of the Mona Lisa,
 she's shrouded in glass with mobs of people facing her visage. Do they care about her?
@@ -96,4 +96,4 @@ You see, "I was here" is not a fresh human concept.
 This is what the transition from the red telephone booth to the wifi monolith truly
 represents. We worship our own existence. It is a fundamental need.
 
-![Figure 3: Praise Smartphone]({{ www.dtrapezoid.com }}/images/praise-smartphone.jpg)
+![Figure 3: Praise Smartphone]({{ www.dtrapezoid.com }}/images/Praise-smartphone.jpg)
