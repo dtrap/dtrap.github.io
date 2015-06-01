@@ -94,6 +94,7 @@ You see, "I was here" is not a fresh human concept.
 ![Figure 3: Not a fresh idea]({{ www.dtrapezoid.com }}/images/cave-drawings.jpg)
 
 This is what the transition from the red telephone booth to the wifi monolith truly
-represents. We worship our own existence. It is a fundamental need.
+represents. We worship our own existence. It is a fundamental need, in that sense
+our very souls are data drenched. 
 
 ![Figure 3: Praise Smartphone]({{ www.dtrapezoid.com }}/images/Praise-smartphone.jpg)
